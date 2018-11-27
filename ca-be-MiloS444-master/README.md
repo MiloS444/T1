@@ -1,3 +1,12 @@
+Milos 
+
+Fun facts:
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------
 # Political- and postal communities in Switzerland
 This is an assignment project template for 3AP candidates that evaluates basic java skills of a candidate.
 ##  Prerequisites :school_satchel:
