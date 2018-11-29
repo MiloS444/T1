@@ -3,7 +3,7 @@ Alt-Fun facts
 ======
 
 
-
+##1.
 
 ![alt text](https://github.com/MiloS444/T1/blob/master/ca-be-MiloS444-master/img/Untitled.png)
 
@@ -19,7 +19,22 @@ Bagnes	|24
 
 
 
+![alt text](https://github.com/MiloS444/T1/blob/master/ca-be-MiloS444-master/img/Untitled1.png)
 
+
+
+U podacima postoji velika redudantnost.
+
+
+
+SELECT SUM( gdenamk = gdenamk1 )
+FROM v
+6047
+
+SELECT SUM( gdenamk = gdename1 )
+FROM v
+
+6033
 
 ----------------------------------------------------------------------------------------------------------
 # Political- and postal communities in Switzerland
