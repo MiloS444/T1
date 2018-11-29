@@ -1,7 +1,24 @@
 Milos 
 
 Fun facts:
+
+
+
+
 ![alt text](https://github.com/MiloS444/T1/blob/master/ca-be-MiloS444-master/img/Untitled.png)
+
+
+
+Top tri imena politickih zajednica:
+
+| GDENAMK | Broj | 
+| :---: | :---: | 
+| Lugano	| 44 | 
+| :---: | :---: | 
+|Val-de-Ruz	|34|
+| :---: | :---: | 
+|Bagnes	|24|
+| :---: | :---: | 
 
 
 
