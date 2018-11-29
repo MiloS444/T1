@@ -3,12 +3,13 @@ Alt-Fun facts
 ======
 
 
-##1.
+#### 1.
 
 ![alt text](https://github.com/MiloS444/T1/blob/master/ca-be-MiloS444-master/img/Untitled.png)
 
 
 
+#### 2.
 Top tri imena politickih zajednica:
 
 GDENAMK | Broj 
@@ -19,22 +20,28 @@ Bagnes	|24
 
 
 
+#### 3.
 ![alt text](https://github.com/MiloS444/T1/blob/master/ca-be-MiloS444-master/img/Untitled1.png)
 
 
 
+#### 4.
 U podacima postoji velika redudantnost.
 
 
 
+#### 5.
+
+Iako sledeće dve kolone deluju isto prilikom spoja, ipak postoji raylika u 15 torki.
+
 SELECT SUM( gdenamk = gdenamk1 )
 FROM v
-6047
+***6047**
 
 SELECT SUM( gdenamk = gdename1 )
 FROM v
 
-6033
+**6033**
 
 ----------------------------------------------------------------------------------------------------------
 # Political- and postal communities in Switzerland
