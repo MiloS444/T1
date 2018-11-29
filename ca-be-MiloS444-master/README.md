@@ -12,13 +12,13 @@ Fun facts:
 Top tri imena politickih zajednica:
 
 | GDENAMK | Broj | 
-| :---: | :---: | 
+| |  | 
 | Lugano	| 44 | 
-| :---: | :---: | 
+|  |  | 
 |Val-de-Ruz	|34|
-| :---: | :---: | 
+|  |  | 
 |Bagnes	|24|
-| :---: | :---: | 
+|  |  | 
 
 
 
