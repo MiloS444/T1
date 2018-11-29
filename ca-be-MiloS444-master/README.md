@@ -3,14 +3,15 @@ Alt-Fun facts
 ======
 
 
-#### 1.
+#### 1. Broj partija po kantonu
+
 
 ![alt text](https://github.com/MiloS444/T1/blob/master/ca-be-MiloS444-master/img/Untitled.png)
 
 
 
-#### 2.
-Top tri imena politickih zajednica:
+#### 2. Top tri imena politickih zajednica
+
 
 GDENAMK | Broj 
 --- | --- 
@@ -20,27 +21,23 @@ Bagnes	|24
 
 
 
-#### 3.
+#### 3. Procentualni udeo kantona u "postal communities"  
+
 ![alt text](https://github.com/MiloS444/T1/blob/master/ca-be-MiloS444-master/img/Untitled1.png)
 
 
 
-#### 4.
-U podacima postoji velika redudantnost.
+#### 4. U podacima postoji velika redudantnost.
 
 
-
-#### 5.
+#### 5. Sličnost
 
 Iako sledeće dve kolone deluju isto prilikom spoja, ipak postoji raylika u 15 torki.
 
-SELECT SUM( gdenamk = gdenamk1 )
-FROM v
-***6047**
+gdenamk = gdenamk1 
+**6047**
 
-SELECT SUM( gdenamk = gdename1 )
-FROM v
-
+gdenamk = gdename1 
 **6033**
 
 ----------------------------------------------------------------------------------------------------------
